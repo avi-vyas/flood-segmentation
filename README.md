@@ -1,4 +1,4 @@
-# Flood Segmentation 🌊
+# Flood Segmentation
 
 A computer vision project for **flood-area segmentation from video**, implemented as a Jupyter Notebook for video inference.
 
